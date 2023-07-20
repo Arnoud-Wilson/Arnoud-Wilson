@@ -10,4 +10,4 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 ### Op dit moment aan het leren:
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,spring)](https://skillicons.dev)
 
-Lijkt het u leuk om kennis te maken? Stuur mij dan gerust een berichtje via [LinkedIn](https://www.arnoudwilson.com).
+Lijkt het u leuk om kennis te maken? Stuur mij dan gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/arnoud-wilson/).
