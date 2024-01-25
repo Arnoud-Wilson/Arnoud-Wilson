@@ -1,13 +1,10 @@
 ## Welkom! Even voorstellen:
 
-Ik ben Arnoud Wilson, een student aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht. 
+Ik ben Arnoud Wilson, afgestudeerd Full stack developer aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht. 
 
-Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) leer ik in 12 maanden tijd eerst front end development en daarna back end development. Hieronder vind u een actueel overzicht van mijn leertraject:
+Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) Heb ik eerst frontend development en daarna backend development geleerd. Hieronder vind u een actueel overzicht van mijn vaardigheden:
 
-### Afgeronde onderdelen:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,react,git,nodejs,postman)](https://skillicons.dev)
-
-### Op dit moment aan het leren:
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring)](https://skillicons.dev)
+### Vaardigheden:
+[![My Skills]([https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,react,git,nodejs,postman)](https://skillicons.dev](https://skillicons.dev/icons?i=idea,vscode,git,github,figma,postman,html,css,js,nodejs,bootstrap,react,java,maven,spring,postgres)](https://skillicons.dev))
 
 Lijkt het u leuk om kennis te maken? Stuur mij dan gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/arnoud-wilson/).
